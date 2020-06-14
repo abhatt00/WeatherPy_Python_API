@@ -21,18 +21,24 @@ Your objective is to build a series of scatter plots to showcase the following r
 
 
 ## Generate Cities List
+<img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/Images/Generated_Cities_List_20200611.jpg">
 
 
 
 ## Perform API Calls
-
-
+<img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/Images/Perform_API_Calls_1.jpg">
+<img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/Images/Perform_API_Calls_2.jpg">
+<img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/Images/Perform_API_Calls_3.jpg">
 
 
 ## Latitude vs Temperature Plot
+<img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/Images/Latitude_v_Temp.jpg">
 
 ## Latitude vs Humidity Plot
+<img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/Images/Latitude_v_Humidity.jpg">
 
 ## Latitude vs Cloudiness Plot
+<img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/Images/Latitude_v_Cloudiness.jpg">
 
 ## Latitude vs Wind Speed Plot
+<img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/Images/Latitude_v_Wind_Speed.jpg">
