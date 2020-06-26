@@ -23,6 +23,7 @@ Your objective is to build a series of scatter plots to showcase the following r
 
 ## Generate Cities List
 Cities are generated from a combination of 1500 latitude and longitude points. All unique cities are appended into a list to run through the API.
+
 <img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/Images/Generated_Cities_List_20200611.jpg">
 
 
