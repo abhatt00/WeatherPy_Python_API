@@ -49,9 +49,12 @@ Chart shows that cities closer to the equator and 20 degrees N of the equator ex
 
 ## Latitude vs Humidity Plot
 <img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/Images/Latitude_v_Humidity.jpg">
+There are more cities where higher humidity occurs the further ones travels North of the Equator.
 
 ## Latitude vs Cloudiness Plot
 <img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/Images/Latitude_v_Cloudiness.jpg">
+No clear correlation can be found between these two factors.
 
 ## Latitude vs Wind Speed Plot
 <img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/Images/Latitude_v_Wind_Speed.jpg">
+No clear correlation can be found between these two factors.
