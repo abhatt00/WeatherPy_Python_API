@@ -29,8 +29,11 @@ Cities are generated from a combination of 1500 latitude and longitude points. A
 
 ## Perform API Calls
  These cities are cycled through the OpenWeatherMap API until 500 cities are found that have all relevant data points available in the API. 
+
 <img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/Images/Perform_API_Calls_1.jpg">
+
 For each city, the data points gathered are each put into their own list. 
+
 <img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/Images/Perform_API_Calls_2.jpg">
 <img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/Images/Perform_API_Calls_3.jpg">
 
@@ -41,6 +44,7 @@ Scatter charts are created using Matplotlib.
 
 ## Latitude vs Temperature Plot
 <img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/Images/Latitude_v_Temp.jpg">
+Chart shows that cities closer to the equator and 20 degrees N of the equator experience higher humidity. This can be explained by the tilt of the Earth's axis in relation to the Sun.  
 
 ## Latitude vs Humidity Plot
 <img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/Images/Latitude_v_Humidity.jpg">
