@@ -10,6 +10,15 @@ Your objective is to build a series of scatter plots to showcase the following r
 * Wind Speed (mph) vs. Latitude
 
 
+## Resources
+
+Data source: cities.csv
+
+Software: Python 3, Jupyter Notebook
+
+URL: OpenWeatherMap.org
+
+
 # Analysis
 
 1st Observation: The only discernable trend occurs in the Latitude v Temp plot, where it shows that the closer a city is to 20 degrees N of the Equator, the higher the Maximum temperature is for that city. This is shown by the upside-down "V" shape in the scatter plot. 
