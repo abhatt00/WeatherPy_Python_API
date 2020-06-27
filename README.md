@@ -75,6 +75,15 @@ No clear correlation can be found between these two factors.
 
 # Second API Call and Scatter Plot Analysis
 
+<img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/Images/Perform_API_Calls_20200626_1.jpg">
+
+The same code is used to initiate another API call to the site and gather the relevant information for the new list of cities.
+
+<img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/Images/Perform_API_Calls_20200626_2.jpg">
+
+All the data from the second API call is stored into a new dataframe, "weather_df_2", which will be utilized to create new scattter plots.
+
+
 ## Latitude vs Temperature Plot
 <img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/code/LatitudeVsTemperature_2.png">
 This chart shows that the trend of higher temperatures for cities between the Equator and 20 degrees N is consistent even when a second list of randomly selected cities is charted. The upsidw-down "V" curve shows up in both plots.
