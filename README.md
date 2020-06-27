@@ -18,7 +18,7 @@ Your objective is to build a series of scatter plots to showcase the following r
 2nd Oberservation: Although the Latitude v Humidity plot does not show a very strong trend, there is cause to argue that there is a higher frequency of cities that experience humidity the farther North of the Equator a city is. A good way to make a comparison is measuring humidity of the cities in question during different seasons.
 
 
-3rd Observation: It seems that regardless of Latitude, cities are more likely to experience average wind speeds between 0 and 4 MPH.
+3rd Observation: It seems that regardless of Latitude, cities are more likely to experience average wind speeds between 0 and 5 MPH.
 
 
 ## Generate Cities List
@@ -45,7 +45,7 @@ Scatter charts are created using Matplotlib.
 
 ## Latitude vs Temperature Plot
 <img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/Images/Latitude_v_Temp.jpg">
-Chart shows that cities closer to the equator and 20 degrees N of the equator experience higher humidity. This can be explained by the tilt of the Earth's axis in relation to the Sun.  
+Chart shows that cities closer to the equator and 20 degrees N of the equator experience higher average temperatures. This can be explained by the tilt of the Earth's axis in relation to the Sun.  
 
 ## Latitude vs Humidity Plot
 <img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/Images/Latitude_v_Humidity.jpg">
@@ -58,3 +58,23 @@ No clear correlation can be found between these two factors.
 ## Latitude vs Wind Speed Plot
 <img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/Images/Latitude_v_Wind_Speed.jpg">
 No clear correlation can be found between these two factors.
+
+
+
+# Second API Call and Scatter Plot Analysis
+
+## Latitude vs Temperature Plot
+<img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/code/LatitudeVsTemperature_2.png">
+This chart shows that the trend of higher temperatures for cities between the Equator and 20 degrees N is consistent even when a second list of randomly selected cities is charted. The upsidw-down "V" curve shows up in both plots.
+
+## Latitude vs Humidity Plot
+<img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/code/LatitudeVsHumidity_2.png">
+The second list of cities also shows a higher frequenqy of cities that experience humidity North of the Equator.
+
+## Latitude vs Cloudiness Plot
+<img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/code/LatitudeVsCloudiness_2.png">
+No clear correlation can be found between these two factors from the first plot to the second plot. Cloudiness does not seem to depend on location.
+
+## Latitude vs Wind Speed Plot
+<img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/code/LatitudeVsWindSpeed_2.png">
+No clear correlation can be found between these two factors. Average wind speed across all cities seems to stay between 0 and 5 MPH.
