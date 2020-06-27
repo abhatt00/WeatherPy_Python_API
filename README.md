@@ -21,6 +21,9 @@ Your objective is to build a series of scatter plots to showcase the following r
 3rd Observation: It seems that regardless of Latitude, cities are more likely to experience average wind speeds between 0 and 5 MPH.
 
 
+Additional observation: After creating a second list of random cities and doing analysis by creating new scatter plots, it is clear that the patterns are not affected by time of year. A few weeks passed between API calls, and the scatter plots appear consistent from first to second city list.
+
+
 ## Generate Cities List
 Cities are generated from a combination of 1500 latitude and longitude points. All unique cities are appended into a list to run through the API.
 
