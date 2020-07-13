@@ -81,7 +81,7 @@ The same code is used to initiate another API call to the site and gather the re
 
 <img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/Images/Perform_API_Calls_20200626_2.jpg">
 
-All the data from the second API call is stored into a new dataframe, "weather_df_2", which will be utilized to create new scattter plots.
+All the data from the second API call is stored into a new dataframe, "weather_df_2", which will be utilized to create new scatter plots.
 
 
 ## Latitude vs Temperature Plot
