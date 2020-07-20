@@ -40,7 +40,7 @@ Cities are generated from a combination of 1500 latitude and longitude points. A
 
 
 
-## Perform API Calls
+## Perform API Calls (6/9/20)
  These cities are cycled through the OpenWeatherMap API until 500 cities are found that have all relevant data points available in the API. 
 
 <img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/Images/Perform_API_Calls_1.jpg">
@@ -73,7 +73,7 @@ No clear correlation can be found between these two factors.
 
 
 
-# Second API Call and Scatter Plot Analysis
+# Second API Call and Scatter Plot Analysis (6/26/20)
 
 <img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/Images/Perform_API_Calls_20200626_1.jpg">
 
@@ -99,3 +99,28 @@ No clear correlation can be found between these two factors from the first plot 
 ## Latitude vs Wind Speed Plot
 <img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/code/LatitudeVsWindSpeed_2.png">
 No clear correlation can be found between these two factors. Average wind speed across all cities seems to stay between 0 and 5 MPH.
+
+
+
+# Third API Call and Scatter Plots (7/20/20)
+
+<img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/Images/Perform_API_Calls_20200720_1.jpg">
+
+The same code is used to initiate another API call to the site and gather the relevant information for the new list of cities.
+
+<img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/Images/Perform_API_Calls_20200720_2.jpg">
+
+All the data from the second API call is stored into a new dataframe, "weather_df_3", which will be utilized to create new scatter plots.
+
+
+## Latitude vs Temperature Plot
+<img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/code/LatitudeVsTemperature_3.png">
+
+## Latitude vs Humidity Plot
+<img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/code/LatitudeVsHumidity_3.png">
+
+## Latitude vs Cloudiness Plot
+<img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/code/LatitudeVsCloudiness_3.png">
+
+## Latitude vs Wind Speed Plot
+<img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/code/LatitudeVsWindSpeed_3.png">
