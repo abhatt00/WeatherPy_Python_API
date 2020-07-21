@@ -124,3 +124,22 @@ All the data from the second API call is stored into a new dataframe, "weather_d
 
 ## Latitude vs Wind Speed Plot
 <img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/code/LatitudeVsWindSpeed_3.png">
+
+
+The trends shown in the third set of plots are consistent with those of the first two API calls.
+Most notably, the Latitude vs Temperature plots in all three occasions show higher maximum temperatures for most cities that are between the Equator and 20 degrees North of it. This can be most easily explained by the tilt that the Earth's axis exists on.
+
+
+## Combined Data all in one Plot
+
+## Latitude vs Temperature Plot
+<img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/code/LatitudeVsTemperature_combined.png">
+
+## Latitude vs Humidity Plot
+<img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/code/LatitudeVsHumidity_combined.png">
+
+## Latitude vs Cloudiness Plot
+<img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/code/LatitudeVsCloudiness_combined.png">
+
+## Latitude vs Wind Speed Plot
+<img width=“500” alt=“” src="https://github.com/abhatt00/WeatherPy_Python_API/blob/master/code/LatitudeVsWindSpeed_combined.png">
